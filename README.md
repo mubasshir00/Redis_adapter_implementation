@@ -1,0 +1,1 @@
+# Redis_adapter_implementation
